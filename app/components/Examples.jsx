@@ -2,7 +2,10 @@ var React = require('react');
 
 var Examples = () => {
   return (
-    <h3>Examples Component stateless!!</h3>
+    <div>
+      <h3>Examples Component stateless!!</h3>
+      <p>welcome to examples page!</p>
+    </div>
   )
 };
 
